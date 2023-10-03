@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hi there, I'm Paul Ochieng
 
-<!--
-**OchiengPaul442/OchiengPaul442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate Web and Mobile Developer who loves to create innovative solutions and learn new technologies.
 
-Here are some ideas to get you started:
+## 🌱 What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m expanding my skill set by diving into Oracle Cloud Infrastructure. I’m excited about the possibilities that cloud technologies bring to the table!
+
+## 👯 Collaboration
+
+I’m open to collaborating on Open Source projects and Mobile App Development. I believe in the power of teamwork and shared knowledge.
+
+## 📫 How to Reach Me
+
+- LinkedIn: Paul Ochieng
+- Email: ochiengpaul442@gmail.com
+
+## 📊 My GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=OchiengPaul442&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OchiengPaul442&langs_count=5&theme=tokyonight)]()
