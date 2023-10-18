@@ -4,7 +4,7 @@ I’m a passionate Web and Mobile Developer who loves to create innovative solut
 
 ## 🌱 What I'm Learning
 
-Currently, I’m expanding my skill set by diving into Oracle Cloud Infrastructure. I’m excited about the possibilities that cloud technologies bring to the table!
+Currently, I’m expanding my skill set by diving into Cloud Infrastructure. I’m excited about the possibilities that cloud technologies bring to the table!
 
 ## 👯 Collaboration
 
