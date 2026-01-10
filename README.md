@@ -4,8 +4,9 @@
 
 <p align="center">
   <a href="https://user-badge.committers.top/uganda/OchiengPaul442">
-    <img src="https://user-badge.committers.top/uganda/OchiengPaul442.svg" alt="committers.top badge" />
+    <img src="https://user-badge.committers.top/uganda/OchiengPaul442.svg" alt="Top committer in Uganda" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=OchiengPaul442&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center">
